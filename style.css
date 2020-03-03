@@ -1,0 +1,39 @@
+#section3 {
+    background: url(img/bg.jpg) center fixed no-repeat;
+}
+
+#section5 {
+    background: url(img/bg2.jpg) center fixed;
+}
+
+#section6 {
+    background-color: grey;
+}
+
+#footer {
+    background-color: darkgrey;
+}
+
+#section1_B {
+    background: url(img/bg3.jpeg) center fixed;
+}
+
+#section4_B {
+    background-color: darkseagreen;
+}
+
+#section1_C {
+    background: url(img/bg4.jpg) center fixed;
+}
+
+#section1_D {
+    background: url(img/bg5.jpg)center fixed no-repeat;
+}
+
+#section1_E {
+    background: url(img/bg5.jpg) fixed no-repeat;
+}
+
+#section3_E {
+    background-color: dimgray;
+}
